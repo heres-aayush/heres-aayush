@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heres-aayush <"AAYUSHMAAN">
 - 👀 I’m interested in ...<CODING><SOFTWARE/WEB DEVELOPMENT>
-- 🌱 I’m currently learning ... <"WEB DEVELOPMENT">
+- 🌱 I’m currently learning ... <"Java">
 - 💞️ I’m looking to collaborate on ... <MAKING THE UI/UX OF A WEBSITE>
 - 📫 Lets talk ... EMAIL ON="aayushmaan.cse27@heritageit.edu.in"
 
