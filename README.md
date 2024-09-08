@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heres-aayush <"AAYUSHMAAN">
 - 👀 I’m interested in ...<CODING><SOFTWARE/COMPETITIVE PROGRAMMING/WEB DEVELOPMENT/...>
 - 🌱 I’m currently learning ... <"Problem Solving and Algorithm">
-- 💞️ I’m looking to collaborate on ... <Web Dev and Discussing cp>
+- 💞️ I’m looking to collaborate on ... <WebD / CP>
 - 📫 Lets talk ... EMAIL ON="aayushmaan.cse27@heritageit.edu.in / guptaaayush2003@gmail.com"
 
 <!---
